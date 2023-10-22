@@ -1,5 +1,6 @@
 package Java_Curso.src.Operadores;
 
+
 public class Ternario {
     public static void main(String[] args) {
         

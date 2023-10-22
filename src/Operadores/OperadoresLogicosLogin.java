@@ -1,5 +1,6 @@
 package Java_Curso.src.Operadores;
 
+
 import java.util.Scanner;
 
 public class OperadoresLogicosLogin {

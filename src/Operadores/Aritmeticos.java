@@ -1,5 +1,7 @@
 package Java_Curso.src.Operadores;
 
+
+
 public class Aritmeticos {
     public static void main(String[] args) {
 
