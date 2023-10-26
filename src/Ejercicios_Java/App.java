@@ -2,6 +2,8 @@ package Java_Curso.src.Ejercicios_Java;
 
 import java.util.Scanner;
 
+import Java_Curso.src.Variables.Genericos;
+
 public class App {
 
     public static void main(String args[]) throws Exception {
