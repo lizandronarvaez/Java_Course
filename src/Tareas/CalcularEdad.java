@@ -1,4 +1,4 @@
-package Java_Curso.src.Tareas;
+package src.Tareas;
 
 import java.text.DateFormat;
 import java.text.ParseException;
