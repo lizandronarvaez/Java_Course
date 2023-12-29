@@ -1,4 +1,4 @@
-package Java_Curso.src.String;
+package src.String;
 
 public class StringConcatenar_2 {
     public static void main(String[] args) {
