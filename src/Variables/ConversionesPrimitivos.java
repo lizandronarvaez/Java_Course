@@ -1,4 +1,4 @@
-package Java_Curso.src.Variables;
+package src.Variables;
 
 public class ConversionesPrimitivos {
     public static void main(String[] args) {

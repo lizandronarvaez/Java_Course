@@ -1,4 +1,4 @@
-package Java_Curso.src.Clase_System;
+package src.Clase_System;
 
 import java.util.Properties;
 

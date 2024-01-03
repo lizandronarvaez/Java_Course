@@ -1,4 +1,4 @@
-package Java_Curso.src.Matrices;
+package src.Matrices;
 
 public class MatrizSimetrica6 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java_Curso.src.Variables;
+package src.Variables;
 
 public class Caracteres {
     // Los caracteres se escribren con comillas simples

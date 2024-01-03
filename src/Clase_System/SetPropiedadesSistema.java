@@ -1,4 +1,4 @@
-package Java_Curso.src.Clase_System;
+package src.Clase_System;
 
 import java.io.File;
 import java.io.FileInputStream;

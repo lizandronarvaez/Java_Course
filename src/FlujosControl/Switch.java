@@ -1,4 +1,4 @@
-package Java_Curso.src.FlujosControl;
+package src.FlujosControl;
 
 import java.util.Scanner;
 

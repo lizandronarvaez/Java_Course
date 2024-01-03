@@ -1,4 +1,4 @@
-package Java_Curso.src.Variables;
+package src.Variables;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

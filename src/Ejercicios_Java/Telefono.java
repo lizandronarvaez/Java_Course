@@ -1,4 +1,4 @@
-package Java_Curso.src.Ejercicios_Java;
+package src.Ejercicios_Java;
 
 public class Telefono {
     private String color, marca, modelo, memoriaInterna;

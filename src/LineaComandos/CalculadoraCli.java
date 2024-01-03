@@ -1,4 +1,4 @@
-package Java_Curso.src.LineaComandos;
+package src.LineaComandos;
 
 public class CalculadoraCli {
 

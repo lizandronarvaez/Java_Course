@@ -1,4 +1,4 @@
-package Java_Curso.src.FlujosControl;
+package src.FlujosControl;
 
 public class ForEach {
     public static void main(String[] args) {

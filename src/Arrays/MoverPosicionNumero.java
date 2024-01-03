@@ -1,4 +1,4 @@
-package Java_Curso.src.Arrays;
+package src.Arrays;
 
 public class MoverPosicionNumero {
 

@@ -1,4 +1,4 @@
-package Java_Curso.src.Operadores;
+package src.Operadores;
 
 
 public class Ternario {

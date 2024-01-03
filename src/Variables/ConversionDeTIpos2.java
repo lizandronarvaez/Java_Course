@@ -1,4 +1,4 @@
-package Java_Curso.src.Variables;
+package src.Variables;
 
 public class ConversionDeTIpos2 {
     public static void main(String[] args) {

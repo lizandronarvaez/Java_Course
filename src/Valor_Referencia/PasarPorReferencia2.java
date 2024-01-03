@@ -1,4 +1,4 @@
-package Java_Curso.src.Valor_Referencia;
+package src.Valor_Referencia;
 
 class Persona {
 

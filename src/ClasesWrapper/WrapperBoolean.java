@@ -1,4 +1,4 @@
-package Java_Curso.src.ClasesWrapper;
+package src.ClasesWrapper;
 
 public class WrapperBoolean {
 

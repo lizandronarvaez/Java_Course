@@ -1,4 +1,4 @@
-package Java_Curso.src.ClaseMath;
+package src.ClaseMath;
 
 public class EjemploMath_2 {
 

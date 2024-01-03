@@ -1,8 +1,8 @@
-package Java_Curso.src.Ejercicios_Java;
+package src.Ejercicios_Java;
 
 import java.util.Scanner;
 
-import Java_Curso.src.Variables.Genericos;
+import src.Variables.Genericos;
 
 public class App {
 

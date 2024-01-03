@@ -1,4 +1,4 @@
-package Java_Curso.src.Arrays;
+package src.Arrays;
 
 public class ArreglosCombinados3 {
     public static void main(String[] args) {

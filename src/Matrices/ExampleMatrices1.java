@@ -1,4 +1,4 @@
-package Java_Curso.src.Matrices;
+package src.Matrices;
 
 public class ExampleMatrices1 {
 

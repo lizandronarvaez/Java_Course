@@ -1,4 +1,4 @@
-package Java_Curso.src.String;
+package src.String;
 
 public class StringExtensionArchivo {
 

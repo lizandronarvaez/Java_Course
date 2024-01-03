@@ -1,4 +1,4 @@
-package Java_Curso.src.Date_Calendar;
+package src.Date_Calendar;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

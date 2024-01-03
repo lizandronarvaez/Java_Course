@@ -1,4 +1,4 @@
-package Java_Curso.src.FlujosControl;
+package src.FlujosControl;
 
 public class BuclesEtiquetasBuscar {
     private static String frase = "tres tristes tigres tragan trigo en un trigal, pero de tanto comer se quedaron sin trigo";
