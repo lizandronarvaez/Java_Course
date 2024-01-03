@@ -3,11 +3,13 @@ package src.POO.Interfaces_Repositorio.Service;
 import java.util.*;
 import src.POO.Interfaces_Repositorio.Enum.Orden;
 import src.POO.Interfaces_Repositorio.Models.Product;
+import src.POO.Interfaces_Repositorio.Service.Exceptions.NotFoundId;
+import src.POO.Interfaces_Repositorio.Service.Exceptions.NotFoundInList;
 
 public class ProductList extends AbstractList<Product> {
 
     @Override
-    public void update(Product product) {
+    public void update(Product product) throws NotFoundId, NotFoundInList {
         Product pro = this.findById(product.getId());
         pro.setDescription(product.getDescription());
         pro.setPrice(product.getPrice());

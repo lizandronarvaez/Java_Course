@@ -3,11 +3,13 @@ package src.POO.Interfaces_Repositorio.Service;
 import java.util.*;
 import src.POO.Interfaces_Repositorio.Enum.Orden;
 import src.POO.Interfaces_Repositorio.Models.Client;
+import src.POO.Interfaces_Repositorio.Service.Exceptions.NotFoundId;
+import src.POO.Interfaces_Repositorio.Service.Exceptions.NotFoundInList;
 
 public class ClientList extends AbstractList<Client> {
 
     @Override
-    public void update(Client cliente) {
+    public void update(Client cliente) throws NotFoundId, NotFoundInList {
         Client isValid = this.findById(cliente.getId());
         isValid.setName(cliente.getName());
         isValid.setLastName(cliente.getLastName());
