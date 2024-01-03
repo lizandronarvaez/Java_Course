@@ -1,6 +1,6 @@
-package src.Tareas.Tarea_Clases_Abstractas.Animales;
+package Tareas.Tarea_Clases_Abstractas.Animales;
 
-import src.Tareas.Tarea_Clases_Abstractas.Mamifero;
+import Tareas.Tarea_Clases_Abstractas.Mamifero;
 
 public class Tigre extends Mamifero {
     // Atributos

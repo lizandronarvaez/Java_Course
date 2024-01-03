@@ -1,9 +1,9 @@
-package src.Tareas.Tarea_Interfaces.Class;
+package Tareas.Tarea_Interfaces.Class;
 
 import java.util.Date;
 
-import src.Tareas.Tarea_Interfaces.AbstractClasses.Producto;
-import src.Tareas.Tarea_Interfaces.Interfaces.ILibro;
+import Tareas.Tarea_Interfaces.AbstractClasses.Producto;
+import Tareas.Tarea_Interfaces.Interfaces.ILibro;
 
 public class Libro extends Producto implements ILibro {
 

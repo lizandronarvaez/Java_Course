@@ -1,8 +1,8 @@
-package src.Tareas.Tarea_Interfaces;
+package Tareas.Tarea_Interfaces;
 
 import java.util.*;
-import src.Tareas.Tarea_Interfaces.Class.*;
-import src.Tareas.Tarea_Interfaces.Interfaces.IProducto;
+import Tareas.Tarea_Interfaces.Class.*;
+import Tareas.Tarea_Interfaces.Interfaces.IProducto;
 
 public class ProyectoCatalogo {
     public static void main(String[] args) {

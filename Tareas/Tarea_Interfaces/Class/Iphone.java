@@ -1,6 +1,6 @@
-package src.Tareas.Tarea_Interfaces.Class;
+package Tareas.Tarea_Interfaces.Class;
 
-import src.Tareas.Tarea_Interfaces.AbstractClasses.Electronico;
+import Tareas.Tarea_Interfaces.AbstractClasses.Electronico;
 
 public class Iphone extends Electronico {
 

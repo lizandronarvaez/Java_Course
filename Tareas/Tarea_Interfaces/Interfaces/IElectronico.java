@@ -1,4 +1,4 @@
-package src.Tareas.Tarea_Interfaces.Interfaces;
+package Tareas.Tarea_Interfaces.Interfaces;
 
 /**
  * IElectronico

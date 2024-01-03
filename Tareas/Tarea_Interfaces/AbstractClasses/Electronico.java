@@ -1,6 +1,6 @@
-package src.Tareas.Tarea_Interfaces.AbstractClasses;
+package Tareas.Tarea_Interfaces.AbstractClasses;
 
-import src.Tareas.Tarea_Interfaces.Interfaces.IElectronico;
+import Tareas.Tarea_Interfaces.Interfaces.IElectronico;
 
 public abstract class Electronico extends Producto implements IElectronico {
 

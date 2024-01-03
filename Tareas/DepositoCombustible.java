@@ -1,4 +1,4 @@
-package src.Tareas;
+package Tareas;
 
 import java.util.Scanner;
 

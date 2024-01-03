@@ -1,6 +1,6 @@
-package src.Tareas.Tarea_Clases_Abstractas.Animales;
+package Tareas.Tarea_Clases_Abstractas.Animales;
 
-import src.Tareas.Tarea_Clases_Abstractas.TiposAnimales.Canino;
+import Tareas.Tarea_Clases_Abstractas.TiposAnimales.Canino;
 
 public class Lobo extends Canino {
 

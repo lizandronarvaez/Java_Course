@@ -1,6 +1,6 @@
-package src.Tareas.Tarea_Interfaces.AbstractClasses;
+package Tareas.Tarea_Interfaces.AbstractClasses;
 
-import src.Tareas.Tarea_Interfaces.Interfaces.IProducto;
+import Tareas.Tarea_Interfaces.Interfaces.IProducto;
 
 abstract public class Producto implements IProducto {
 

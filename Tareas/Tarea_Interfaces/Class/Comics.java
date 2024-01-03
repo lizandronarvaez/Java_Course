@@ -1,4 +1,4 @@
-package src.Tareas.Tarea_Interfaces.Class;
+package Tareas.Tarea_Interfaces.Class;
 
 import java.util.Date;
 

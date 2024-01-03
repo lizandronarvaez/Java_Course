@@ -1,6 +1,6 @@
-package src.Tareas.Tarea_Clases_Abstractas.TiposAnimales;
+package Tareas.Tarea_Clases_Abstractas.TiposAnimales;
 
-import src.Tareas.Tarea_Clases_Abstractas.Mamifero;
+import Tareas.Tarea_Clases_Abstractas.Mamifero;
 
 abstract public class Canino extends Mamifero {
 

@@ -1,4 +1,4 @@
-package src.Tareas.Tarea_Almacen;
+package Tareas.Tarea_Almacen;
 
 public class NoPerecible extends Producto {
     private int contenido, calorias;

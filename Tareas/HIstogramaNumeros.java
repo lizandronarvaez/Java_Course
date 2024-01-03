@@ -1,4 +1,4 @@
-package Java_Curso.src.Tareas;
+package Tareas;
 
 import java.util.ArrayList;
 import java.util.Scanner;

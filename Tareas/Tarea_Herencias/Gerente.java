@@ -1,4 +1,4 @@
-package src.Tareas.Tarea_Herencias;
+package Tareas.Tarea_Herencias;
 
 public class Gerente extends Empleado {
 

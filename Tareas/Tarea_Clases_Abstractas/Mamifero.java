@@ -1,4 +1,4 @@
-package src.Tareas.Tarea_Clases_Abstractas;
+package Tareas.Tarea_Clases_Abstractas;
 
 abstract public class Mamifero {
 

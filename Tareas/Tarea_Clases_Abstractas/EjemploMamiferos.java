@@ -1,15 +1,9 @@
-package src.Tareas.Tarea_Clases_Abstractas;
+package Tareas.Tarea_Clases_Abstractas;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
-import src.Tareas.Tarea_Clases_Abstractas.Animales.Guepardo;
-import src.Tareas.Tarea_Clases_Abstractas.Animales.Leon;
-import src.Tareas.Tarea_Clases_Abstractas.Animales.Lobo;
-import src.Tareas.Tarea_Clases_Abstractas.Animales.Perro;
-import src.Tareas.Tarea_Clases_Abstractas.Animales.Tigre;
-import src.Tareas.Tarea_Clases_Abstractas.TiposAnimales.Canino;
-import src.Tareas.Tarea_Clases_Abstractas.TiposAnimales.Felino;
+import Tareas.Tarea_Clases_Abstractas.Animales.*;
+import Tareas.Tarea_Clases_Abstractas.TiposAnimales.*;
 
 public class EjemploMamiferos {
     public static void main(String[] args) {

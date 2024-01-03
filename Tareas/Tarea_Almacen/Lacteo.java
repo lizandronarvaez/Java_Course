@@ -1,4 +1,4 @@
-package src.Tareas.Tarea_Almacen;
+package Tareas.Tarea_Almacen;
 
 public class Lacteo extends Producto {
     private int cantidad, proteinas;
