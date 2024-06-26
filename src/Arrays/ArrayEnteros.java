@@ -1,4 +1,4 @@
-package src.Arrays;
+package Arrays;
 
 public class ArrayEnteros {
     public static void main(String[] args) {
