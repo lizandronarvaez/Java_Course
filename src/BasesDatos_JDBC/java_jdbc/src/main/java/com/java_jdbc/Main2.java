@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import org.postgresql.util.PSQLException;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
 
         try (
