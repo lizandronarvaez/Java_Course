@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: com.pruebas_con_junit_testing.models.CuentaTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.163 s <<< FAILURE! -- in com.pruebas_con_junit_testing.models.CuentaTest
+com.pruebas_con_junit_testing.models.CuentaTest.testDineroInsuficienteExceptionCuenta -- Time elapsed: 0.017 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Expected com.pruebas_con_junit_testing.exceptions.DineroInsuficienteException to be thrown, but nothing was thrown.
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:73)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:35)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3123)
+	at com.pruebas_con_junit_testing.models.CuentaTest.testDineroInsuficienteExceptionCuenta(CuentaTest.java:84)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
